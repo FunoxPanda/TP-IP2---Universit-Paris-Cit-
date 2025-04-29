@@ -6,7 +6,7 @@ Ce *repository* contient 3 classes :
 - [Arbre](./Arbre.java)
 - [Noeud](./Noeud.java) : gérer les liens entre les noeuds
 
-Le sujet est disponible [./sujet.pdf](ici).
+Le sujet est disponible [ici](./Sujet.pdf).
 
 # Droits d'auteurs
 
@@ -14,4 +14,4 @@ Le sujet est disponible [./sujet.pdf](ici).
 2025 (c) Université Paris Cité - Tous droits réservés
 Cours par [Giulio Manzonetto](https://www.irif.fr/~gmanzone/)
 
-**Proposition de correction : ** Ewen Rodrigues de Oliveira (moi-même)
+**Proposition de correction :** Ewen Rodrigues de Oliveira (moi-même)
